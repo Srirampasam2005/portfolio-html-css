@@ -1,0 +1,75 @@
+home.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home</title>
+</head>
+<body>
+
+<!-- Main layout table -->
+<table border="1" width="100%" height="100%">
+  <tr>
+    <!-- Left-side navigation (include navbar.html here) -->
+    <td width="20%" valign="top">
+      <object data="navbar.html" type="text/html" width="100%" height="600"></object>
+    </td>
+
+    <!-- Right-side main content -->
+    <td valign="top">
+      <!-- Include header -->
+      <object data="header.html" type="text/html" width="100%" height="200"></object>
+
+      <h1>Welcome to My Portfolio Website</h1>
+
+      <section id="skills">
+        <h2>My Skills</h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>ReactJS</li>
+          <li>NodeJS</li>
+        </ul>
+        <p><a href="#top">Back to top</a></p>
+      </section>
+
+      <section id="education">
+        <h2>Education Qualification</h2>
+        <ul>
+          <li>Background: B.Tech</li>
+          <li>Group: CSE - AI</li>
+          <li>Pass out: 2026</li>
+        </ul>
+        <p><a href="#top">Back to top</a></p>
+      </section>
+
+      <section id="experience">
+        <h2>Experience & Internships</h2>
+        <ul>
+          <li>Fresher</li>
+          <li>1 Internship / Experiment</li>
+          <li>Duration: 3 months</li>
+        </ul>
+        <p><a href="#top">Back to top</a></p>
+      </section>
+
+      <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+          <li>Jireh Architecture Project</li>
+          <li>Credit Card Fraud Detection</li>
+          <li>Jharul Care Hospital</li>
+        </ul>
+        <p><a href="#top">Back to top</a></p>
+      </section>
+
+      <!-- Footer -->
+      <object data="footer.html" type="text/html" width="100%" height="100"></object>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
