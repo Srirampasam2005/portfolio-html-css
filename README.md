@@ -36,6 +36,6 @@ Follow these steps to run the project locally:
 
 ## 📫 Contact  
 Would love to hear from you!  
-- Email:srirampasam2005m@gmail.com.
+- Email:srirampasam2005@gmail.com.
 - LinkedIn: [https://www.linkedin.com/in/Pasam sriram]
 - GitHub: [pasam sriram](https://github.com/pasam sriram)
