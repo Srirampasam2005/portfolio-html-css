@@ -38,4 +38,4 @@ Follow these steps to run the project locally:
 Would love to hear from you!  
 - Email:srirampasam2005@gmail.com.
 - LinkedIn: [https://www.linkedin.com/in/Pasamsriram]
-- GitHub: [pasamsriram](https://github.com/pasamsriram)
+- GitHub: https://github.com/Srirampasam2005/portfolio-html-css
